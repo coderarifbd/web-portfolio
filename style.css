@@ -27,6 +27,9 @@ section.nav ul li a{
      color: #000;
     padding: 10px 15px;
 }
+section.nav ul li a:hover{
+    color: #FB6253;
+}
 .helf-width{
     width: 45%;
     float: left;
